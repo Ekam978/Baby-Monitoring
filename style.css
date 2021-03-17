@@ -1,0 +1,23 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#No_of_objects
+{
+font-size: 18px;
+}
+
+canvas{
+    margin-top: 30px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+body{
+    background-position: center;
+    background-size: contain;
+}
